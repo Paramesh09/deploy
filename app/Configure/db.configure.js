@@ -1,5 +1,5 @@
 module.exports = {
-    HOST: "localhost",
+    HOST: "13.228.225.19",
     USER: "root",
     PASSWORD: "SmartWork@123",
     DB: "node_project",
