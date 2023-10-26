@@ -20,7 +20,9 @@
     "joi": "^17.9.2",
     "jsonwebtoken": "^9.0.1",
     "mysql2": "^3.5.2",
-    "sequelize": "^6.32.1"
+    "pg": "^8.11.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.33.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
